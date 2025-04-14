@@ -1,0 +1,15 @@
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.AssemblyInfoInputs.cache
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.AssemblyInfo.cs
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.csproj.CoreCompileInputs.cache
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.sourcelink.json
+C:\Users\grego\workspace\csharp\heist\bin\Debug\net8.0\heist.exe
+C:\Users\grego\workspace\csharp\heist\bin\Debug\net8.0\heist.deps.json
+C:\Users\grego\workspace\csharp\heist\bin\Debug\net8.0\heist.runtimeconfig.json
+C:\Users\grego\workspace\csharp\heist\bin\Debug\net8.0\heist.dll
+C:\Users\grego\workspace\csharp\heist\bin\Debug\net8.0\heist.pdb
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.dll
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\refint\heist.dll
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.pdb
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\heist.genruntimeconfig.cache
+C:\Users\grego\workspace\csharp\heist\obj\Debug\net8.0\ref\heist.dll
