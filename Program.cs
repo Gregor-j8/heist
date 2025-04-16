@@ -30,6 +30,7 @@ void main()
     3. Teammate info 
     4. team Length
     5. Attempt heist 
+    6. leave
     ");
         int PlanHeist = int.Parse(Console.ReadLine());
         switch (PlanHeist)
@@ -48,6 +49,9 @@ void main()
                 break;
             case 5:
                 Heist();
+                break;
+            case 6:
+                run = false;
                 break;
         }
     }
